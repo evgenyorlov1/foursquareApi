@@ -1,0 +1,8 @@
+Script returns information about venue.
+python venue-lookup.py input.csv output.csv
+
+Script is limited to 5000 api calls. Change MAXCALLS variable.
+Script loads categories from file category_mapping.csv. Change variable category_mapping_file to ather .csv file.
+category_mapping.csv consists of venues categories. Add categories there.
+
+Run sudo sh install.sh to install Twisted and service_module
