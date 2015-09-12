@@ -12,8 +12,8 @@ import os
 import urllib2
 
 
-client_id = "3BC4S3TVG0WAPTERYZ5WJ1Q35ME1GZR13XXFVOQN5CXNJXIJ"
-client_secret = "XM4RDX4LVNK3TUOKXS1SAOPHND44FH3HRPYVQLGXIJNVKFK4"
+client_id = ""
+client_secret = ""
 url = "https://api.foursquare.com/v2/venues/search?"
 version = 20150101
 head_row = ['klsg_category', 'klsg_id', 'klsg_name',
